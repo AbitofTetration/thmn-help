@@ -13,7 +13,7 @@ const typeColors = {
   ice: "#72cfbd",
   dragon: "#f9f59d",
   dark: "#5b5464",
-  fairy: "#150821",
+  fairy: "#210d33",
   normal: "#929da3",
   fighting: "#ce436a",
   flying: "#8caadc",
