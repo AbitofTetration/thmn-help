@@ -8,10 +8,6 @@
   },
   "offense": {
     "chooseTypes": "Typen auswählen",
-    "weaknessCoverage": "Schwäche-Coverage",
-    "weaknessCoverageEdit": "Bearbeiten",
-    "weaknessCoverageEditLong": "Bearbeiten Schwächen-Abdeckung",
-    "weaknessCoverageForms": "{{ count }} / {{ total }} <formslink>Formen</<formslink>",
     "dealsXTo": "Fügt {{ x }} Schaden zu"
   },
   "coverage": {
@@ -59,8 +55,8 @@
       "help": "Hilfe",
       "helpLong": "Hilfe, Pokédex-Suche"
     },
-    "bulbapedia": {
-      "label": "Bulbapedia-Seite für {{ pokemon }}"
+    "wiki": {
+      "label": "PokéWiki-Seite für {{ pokemon }}"
     },
     "offense": {
       "label": "Angriff für {{ pokemon }}",
