@@ -140,9 +140,9 @@
   },
   "more": {
     "contact": {
-      "heading": "Contact Me",
-      "intro": "Hi, I'm <homepage>Brian</homepage> (they/them), and I made Pokémon Type Calculator (pkmn.help).",
-      "email": "Please email your thoughts and thank-yous to <email>pkmn@wavebeem.com</email>."
+      "heading": "Original Website",
+      "intro": "This is an extremely outdated website that I made for fun, for a fanmade type chart that will never come to be.",
+      "email": "Please go to https://www.pkmn.help/ for the original website. If you want to contact the creator of this website, I use @technokaguya on discord."
     },
     "settings": {
       "heading": "Settings",
@@ -211,7 +211,7 @@
       "pokemon": "Pokémon © 2002–{{ year }} Pokémon. © 1995–{{ year }} Nintendo/Creatures Inc./GAME FREAK inc. ™, ® and Pokémon character names are trademarks of Nintendo.",
       "dontSueMe": "No copyright or trademark infringement is intended in using Pokémon content on this page.",
       "pokeAPI": "Pokédex data from <pokeapi>PokéAPI</pokeapi>.",
-      "wavebeem": "pkmn.help © 2013–{{ year }} <wavebeem>Brian Mock</wavebeem>."
+      "wavebeem": "pkmn.help © 2013–{{ year }} <wavebeem>Originally by Brian Mock</wavebeem>."
     }
   },
   "types": {
