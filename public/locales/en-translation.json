@@ -141,15 +141,15 @@
   "more": {
     "contact": {
       "heading": "Original Website",
-      "intro": "This is an extremely outdated website that I made for fun, for a fanmade type chart that will never come to be.",
-      "email": "Please go to https://www.pkmn.help/ for the original website. If you want to contact the creator of this website, I use @technokaguya on discord."
+      "intro": "This is an extremely outdated website that I made for fun, for a Touhoumon type of fangame that will never come to be.",
+      "email": "Please go to https://www.pkmn.help/ for the original website. If you want to contact the creator of this branch instead, I go by @technokaguya on discord. Except for the credits, the text he has written in first person have been altered to not be first person."
     },
     "settings": {
       "heading": "Settings",
       "language": {
         "label": "Language",
         "default": "Auto detect language",
-        "helpText": "Language support is incomplete. Please email me, I will pay you to translate."
+        "helpText": "Language support is incomplete."
       },
       "theme": {
         "label": "Theme",
@@ -178,11 +178,11 @@
     },
     "privacy": {
       "heading": "Privacy",
-      "description": "I will never run ads or steal your personal data. I use <plausible>Plausible Analytics</plausible>, which is self-funded, independent, hosted in the EU, and doesn't store any cookies on your computer."
+      "description": "This website will never run ads or steal your personal data. I use <plausible>Plausible Analytics</plausible>, which is self-funded, independent, hosted in the EU, and doesn't store any cookies on your computer."
     },
     "givingBack": {
       "heading": "Showing Appreciation",
-      "description": "I have spent countless hours improving this site. If you appreciate what I've made, please consider donating to charities that support BIPOC and transgender rights."
+      "description": "Please consider donating to charities that support BIPOC and transgender rights."
     },
     "thanks": {
       "heading": "Special Thanks",
