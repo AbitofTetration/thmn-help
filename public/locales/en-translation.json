@@ -178,14 +178,14 @@
     },
     "privacy": {
       "heading": "Privacy",
-      "description": "This website will never run ads or steal your personal data. I use <plausible>Plausible Analytics</plausible>, which is self-funded, independent, hosted in the EU, and doesn't store any cookies on your computer."
+      "description": "This website will never run ads or steal your personal data. It uses <plausible>Plausible Analytics</plausible>, which is self-funded, independent, hosted in the EU, and doesn't store any cookies on your computer."
     },
     "givingBack": {
       "heading": "Showing Appreciation",
       "description": "Please consider donating to charities that support BIPOC and transgender rights."
     },
     "thanks": {
-      "heading": "Special Thanks",
+      "heading": "Original Thanks",
       "credits": {
         "abylayZhandarbek": "Abylay Zhandarbek (Russian translation, Kazakh translation)",
         "vio": "Vio (Brazilian Portuguese translation)",
@@ -204,7 +204,7 @@
     },
     "openSource": {
       "heading": "Open Source",
-      "description": "Source code is available on <github>GitHub</github>."
+      "description": "The original website's source code is available on <github>GitHub</github>."
     },
     "legalInfo": {
       "heading": "Legal Info",
